@@ -8,3 +8,6 @@ Estoy añadiendo esta frase para detectar que sucede al hacer un git add
 Estoy añadiendo esto antes de dar un commit, pero luego de hacer un git add.
 
 Ya estoy al dia, modificaré este archivo pero no lo guardaré aún en git.
+
+Al hacer un reset soft, no se borra el archivo que está en stage. Pero será que se modifica el archivo en 
+directorio de trabajo? Guardemos y no hagamos staging
