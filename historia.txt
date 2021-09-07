@@ -2,3 +2,9 @@ Esta es la historia de Jonathan que tiene 35 años
 y es profesor ocasional
 
 hoy hablaremos de su vida y de su obra maestra
+
+Estoy añadiendo esta frase para detectar que sucede al hacer un git add
+
+Estoy añadiendo esto antes de dar un commit, pero luego de hacer un git add.
+
+Ya estoy al dia, modificaré este archivo pero no lo guardaré aún en git.
