@@ -7,6 +7,8 @@ Estoy añadiendo esta frase para detectar que sucede al hacer un git add
 
 Master 1
 
+Master 2
+
 Estoy añadiendo esto antes de dar un commit, pero luego de hacer un git add.
 
 Ya estoy al dia, modificaré este archivo pero no lo guardaré aún en git.
