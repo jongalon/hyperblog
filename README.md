@@ -11,4 +11,5 @@ Este es un blog del curso de [git y github](https://platzi.com/clases/1557-git-g
 -  Las personalidades mútiples de Freddy
 -  Creado por Jonathan Gallego en Platzi
 -  Incluye ejemplos en Windows y Mac
+-  Disponible para todas las edades
 Y como un amable recordatorio: **Este readme es un chiste** Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a [ver el curso](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "ver el curso")
