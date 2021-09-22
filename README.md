@@ -9,5 +9,6 @@ Este es un blog del curso de [git y github](https://platzi.com/clases/1557-git-g
 -  El verdadero amor por las buenas prácticas
 -  Trucos muy locos del profe
 -  Las personalidades mútiples de Freddy
+-  Creado por Jonathan Gallego en Platzi
 
 Y como un amable recordatorio: **Este readme es un chiste** Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a [ver el curso](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "ver el curso")
